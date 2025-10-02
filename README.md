@@ -1,9 +1,9 @@
 # 🚀 Data Scientist | Machine Learning Engineer | AI Solutions Architect
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JacquetAlexis23&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/alexis-jacquet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alexis-jacquet)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-green)](https://JacquetAlexis23.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](ajacquet.er@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ajacquet.er@gmail.com)
 
 > 🎯 **Transformando datos en decisiones estratégicas de negocio mediante Machine Learning y Deep Learning**
 
@@ -84,12 +84,12 @@
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacquetAlexis23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacquetAlexis23&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacquetAlexis23&theme=dark" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -139,14 +139,14 @@
 <div align="center">
 
 ### 🌐 **Portfolio Completo**
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-success?style=for-the-badge&logo=github)](https://TuUsuario.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-success?style=for-the-badge&logo=github)](https://JacquetAlexis23.github.io)
 
 ### 💼 **Redes Profesionales**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuUsuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-jacquet)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JacquetAlexis23)
 
 ### 📧 **Contacto Directo**
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajacquet.er@gmail.com)
 
 </div>
 
