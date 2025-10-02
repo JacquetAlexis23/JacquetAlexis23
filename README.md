@@ -1,9 +1,9 @@
 # 🚀 Data Scientist | Machine Learning Engineer | AI Solutions Architect
 
-![Profile Views](https://komarev.com/ghpvc/?username=TuUsuario&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-green)](https://TuUsuario.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tu-email@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=JacquetAlexis23&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/alexis-jacquet)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-green)](https://JacquetAlexis23.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](ajacquet.er@gmail.com)
 
 > 🎯 **Transformando datos en decisiones estratégicas de negocio mediante Machine Learning y Deep Learning**
 
