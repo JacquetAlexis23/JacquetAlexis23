@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=JacquetAlexis23&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alexis-jacquet)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-green)](https://JacquetAlexis23.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ajacquet.er@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ajacquet.er@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ajacquet.er@gmail.com)
 
 > 🎯 **Transformando datos en decisiones estratégicas de negocio mediante Machine Learning y Deep Learning**
 
