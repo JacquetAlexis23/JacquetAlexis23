@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alexis-jacquet)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-green)](https://JacquetAlexis23.github.io)
 📧 **Email**: ajacquet.er@gmail.com
+📍 **Ubicación**: Colón, Entre Ríos, Argentina
 
 > 🎯 **Transformando datos en decisiones estratégicas de negocio mediante Machine Learning y Deep Learning**
 
@@ -13,7 +14,8 @@
 
 **Data Scientist** especializado en la implementación de soluciones de **Machine Learning** y **Deep Learning** para resolver problemas empresariales complejos. Con experiencia en análisis predictivo, computer vision, NLP y arquitecturas escalables de IA.
 
-- 🔬 **Especialización**: Machine Learning, Deep Learning, NLP, Computer Vision
+- � **Ubicación**: Colón, Entre Ríos, Argentina
+- �🔬 **Especialización**: Machine Learning, Deep Learning, NLP, Computer Vision
 - 🏢 **Enfoque**: Soluciones de IA aplicadas a negocios con ROI medible
 - 📊 **Experiencia**: Proyectos end-to-end desde análisis exploratorio hasta producción
 - 🌎 **Idiomas**: Español (nativo), Inglés (avanzado)
