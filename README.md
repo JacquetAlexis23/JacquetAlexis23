@@ -1,4 +1,10 @@
-# 🚀 Data Scientist | Machine Learning Engineer | AI Solutions Architect
+# 🚀| AI Engineer | Data Engineer | Data Scientist | Machine Learning Engineer | AI Solutions Architect | Data Analyst
+
+<div align="center">
+
+🇪🇸 **Español** | [🇬🇧 English](./README.en.md)
+
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JacquetAlexis23&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alexis-jacquet)
